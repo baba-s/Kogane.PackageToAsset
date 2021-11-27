@@ -10,8 +10,7 @@
 
 ![](https://user-images.githubusercontent.com/6134875/143663549-d19798a5-50e3-4092-a256-0f2628028a4c.png)
 
-Assets フォルダに移動したい Package を右クリックして  
-「Package to Asset」からコマンドを選択します  
+Assets フォルダに移動したい Package を右クリックして「Package to Asset」からコマンドを選択します  
 
 |項目|内容|
 |:--|:--|
